@@ -3,18 +3,18 @@
     
     <!-- Project information -->
     <groupId>me.Zg</groupId>
-    <artifactId>AutoElement</artifactId>
+    <artifactId>AutoElements</artifactId>
     <packaging>jar</packaging>
 
     <!-- Plugin Information -->
-    <name>AutoElement</name>
+    <name>AutoElements</name>
     <description>Automatically Selects Elements</description>
     <version>0.0.1</version>
     <url>https://github.com/CritickalGames/Pluggin.git</url>
 
     <properties>
         <author>Zgtale</author>
-        <mainClass>me.Zg.AutoElement.Main</mainClass>
+        <mainClass>me.Zg.AutoElements.Main</mainClass>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 

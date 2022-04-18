@@ -1,0 +1,10 @@
+name: AutoElements
+description: Automatically Selects Elements
+author: Zgtale
+main: me.Zg.AutoElements.Main
+version: 0.0.1
+url: https://github.com/CritickalGames/Pluggin.git
+commands:
+  example:
+    aliases: ["ae"]
+    description: "Auto Element."
